@@ -1,3 +1,19 @@
-p {
-  color: purple;
+h1 {
+  color: blue;
+  font-family: Lucida Console;
+  font-size: 56px;
+  text-align: center;
+  margin: 30px;
 }
+h2{
+  color: 556b2f;
+  font-family: calibri;
+  font-size: 32px;
+  margin: 30px;
+}
+p{
+  color: 006400;
+  font-size: 1.25em;
+  margin: 30px;
+}
+
