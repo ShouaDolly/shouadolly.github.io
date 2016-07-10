@@ -2,15 +2,14 @@ name {
   font-family:'Helvetica';
   font-size:32px;
   text-align: right;
-  background-image: url(http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/background-21.jpg);
-  background-size: cover;
-  
 }
 h3 {
   color: dark gray;
   font-family: Sylfaen;
   text-align: right;
   margin: 30px;
+  background-image: url(http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/background-21.jpg);
+  background-size: cover;
 }
 h4 {
   color: dark gray;
