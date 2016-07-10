@@ -1,3 +1,7 @@
+body {
+  background-image: url(http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/background-21.jpg);
+  background-size: cover;
+}
 h3 {
   font-family: Sylfaen;
   text-align: right;
@@ -12,8 +16,6 @@ p{
   font-size: 1em;
   text-align: left;
   margin: 50px;
-  background-image: url(http://hdwallpaperbook.com/wp-content/gallery/professional-background-images/background-21.jpg);
-  background-size: cover;
 }
 
 
