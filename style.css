@@ -3,8 +3,6 @@ body {
   background-attachment: fixed;
   background-size: 1400px 1000px;
   background-repeat: no-repeat;
-  border: 2px solid BLUE;
-  border-radius: 5px;
 }
 h3 {
   font-family: Lucida Calligraphy;
@@ -26,7 +24,8 @@ p{
   font-size: 1em;
   text-align: left;
   margin: 0px;
-
+  border: 2px solid BLUE;
+  border-radius: 5px;
 }
 
 
