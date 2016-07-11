@@ -18,10 +18,12 @@ h4 {
 h5 {
   font-family: CALIBRI;
   FONT-STYLE: BOLD;
-  FONT-SIZE: 40PX;
+  FONT-SIZE: 35PX;
+  FONT COLOR: BLUE;
   text-align: LEFT;
   border: 5px;
   padding: 8px 18px;
+  MARGIN: 0PX;
 }
 p{
   color: 2f4f4f;
