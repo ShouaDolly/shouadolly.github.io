@@ -3,6 +3,7 @@ body {
   background-attachment: fixed;
   background-size: 1400px 1000px;
   background-repeat: no-repeat;
+  border: 5px;
 }
 h3 {
   font-family: Lucida Calligraphy;
