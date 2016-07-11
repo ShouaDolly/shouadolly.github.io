@@ -2,6 +2,7 @@ body {
   background-image: url(http://www.acsu.buffalo.edu/~niallhar/images.jpg);
   background-attachment: fixed;
   background-size: 1400px 1000px;
+  background-repeat: no-repeat;
 }
 h3 {
   font-family: Lucida Calligraphy;
