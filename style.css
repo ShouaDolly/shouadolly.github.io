@@ -1,7 +1,7 @@
 body {
   background-image: url(http://www.acsu.buffalo.edu/~niallhar/images.jpg);
   background-attachment: fixed;
-  background-size: 100%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   BORDER-WIDTH: 800PX;
 }
