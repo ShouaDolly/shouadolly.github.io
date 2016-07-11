@@ -3,28 +3,32 @@ body {
   background-attachment: fixed;
   background-size: 1400px 1000px;
   background-repeat: no-repeat;
-  BORDER-WIDTH: 1000PX;
+  BORDER-WIDTH: 800PX;
 }
 h3 {
   font-family: Lucida Calligraphy;
   text-align: RIGHT;
   MARGIN: 0PX;
+  BORDER-WIDTH: 800PX;
 }
 h4 {
   font-family: Lucida Calligraphy;
   text-align: CENTER;
   border: 5px;
   MARGIN: 0PX;
+  BORDER-WIDTH: 800PX;
 }
 h5 {
   FONT-SIZE: 19PX;
   text-align: CENTER;
   MARGIN: 0PX;
+  BORDER-WIDTH: 800PX;
 }
 p{
   font-size: 1em;
   text-align: left;
   margin: 0px;
+  BORDER-WIDTH: 800PX;
 }
 
 
