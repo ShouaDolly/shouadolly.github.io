@@ -5,6 +5,9 @@ body {
   background-repeat: no-repeat;
   BORDER-WIDTH: 800PX;
 }
+img {
+    float:left;
+}
 h3 {
   font-family: Lucida Calligraphy;
   text-align: RIGHT;
