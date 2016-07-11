@@ -11,14 +11,13 @@ h3 {
 }
 h4 {
   font-family: Lucida Calligraphy;
-  text-align: right;
+  text-align: CENTER;
   border: 5px;
   padding: 8px 18px;
 }
 h5 {
-  font-family: LUCIDA CALLIGRAPHY;
   FONT-SIZE: 20PX;
-  text-align: RIGHT;
+  text-align: CENTER;
   MARGIN: 0PX;
 }
 p{
