@@ -14,7 +14,6 @@ h4 {
   font-family: Lucida Calligraphy;
   text-align: CENTER;
   border: 5px;
-  padding: 8px 18px;
 }
 h5 {
   FONT-SIZE: 22PX;
@@ -24,8 +23,7 @@ h5 {
 p{
   font-size: 1em;
   text-align: left;
-  margin: -5px;
-  padding: 8px 18px;
+  margin: -10px;
 }
 
 
