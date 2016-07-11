@@ -7,7 +7,8 @@ body {
 }
 h3 {
   font-family: Lucida Calligraphy;
-  text-align: center;
+  text-align: RIGHT;
+  MARGIN: -5PX;
 }
 h4 {
   font-family: Lucida Calligraphy;
@@ -21,7 +22,6 @@ h5 {
   MARGIN: 0PX;
 }
 p{
-  color: 2f4f4f;
   font-size: 1em;
   text-align: left;
   margin: -5px;
